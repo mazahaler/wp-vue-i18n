@@ -1,14 +1,14 @@
 {
-  "name": "wp-vue-i18n",
+  "name": "i18n-wp-vue",
   "version": "1.1.4",
   "description": "Internationalize WordPress themes and plugins built with Vue.js",
   "license": "MIT",
-  "homepage": "https://github.com/ediamin/wp-vue-i18n",
-  "repository": "ediamin/wp-vue-i18n",
+  "homepage": "https://github.com/mazahaler/wp-vue-i18n",
+  "repository": "mazahaler/wp-vue-i18n",
   "author": {
-    "name": "Edi Amin",
-    "email": "to.ediamin@gmail.com",
-    "url": "https://github.com/ediamin"
+    "name": "Vladislav Khalranchuk",
+    "email": "vxarlanchuk@gmail.com",
+    "url": "https://github.com/mazahaler"
   },
   "bin": {
     "wpvuei18n": "./bin/wpvuei18n"
